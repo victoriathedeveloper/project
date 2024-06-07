@@ -76,9 +76,9 @@ ul
   list-style-position: inside;
   text-align: left;
 }
-ol{
-  list-style-position: inside;
-  text-align: center;
+ol:nth-of-type(2) {
+ list-style-position: outside;
+  padding: 0;
 }
 contact{
   align-text:center;
