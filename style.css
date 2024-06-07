@@ -77,11 +77,13 @@ ul
   text-align: left;
 }
 ol {
-text-align: left;
  list-style-position: inside;
-  padding: 0;
+  text-align: left;
 }
-
+center
+{
+  text-align: left;
+}
 
 footer{
 text-align: center;
